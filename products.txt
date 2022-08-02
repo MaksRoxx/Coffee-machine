@@ -1,0 +1,7 @@
+capuchino   200
+espresso   100
+water   50
+milk   75
+coca-cola   100
+sprite   89
+fresh   30
